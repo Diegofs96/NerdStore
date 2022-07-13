@@ -1,0 +1,10 @@
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.deps.json
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfo.cs
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+D:\Desenvolvedor.io\NerdStore\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
